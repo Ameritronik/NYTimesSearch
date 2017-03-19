@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="10dp">
+
+    <TextView
+        android:id="@+id/tvArticleText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#e9e9e7"
+        android:ellipsize="end"
+        android:maxLines="6"
+        android:text="@string/article_text"
+        android:textAppearance="?android:attr/textAppearanceListItemSmall"
+        android:textSize="36sp" />
+
+</LinearLayout>

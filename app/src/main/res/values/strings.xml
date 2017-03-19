@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">NYTimesSearch</string>
+    <string name="action_settings">Settings</string>
+    <string name="query_filter">Query Filter</string>
+    <string name="search">Search</string>
+    <string name="onDate">onDate</string>
+    <string name="Order">order</string>
+    <string name="newsItems">News Items</string>
+    <string name="check_arts">Check Arts</string>
+    <string name="style">Fashion and Style</string>
+    <string name="sports">Sports</string>
+    <string name="back">Back</string>
+    <string name="OK">OK</string>
+    <string name="title_activity_article">Read More..</string>
+    <string name="share_article">Share Article</string>
+    <string name="article_text">Text</string>
+
+    <string-array name="ordered_list">
+        <item>newest</item>
+        <item>oldest</item>
+    </string-array>
+</resources>
